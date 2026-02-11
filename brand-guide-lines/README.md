@@ -1,7 +1,5 @@
 # 株式会社SasaTech — Brand Design System
 
----
-
 ## Colors
 
 ### Primary Colors
